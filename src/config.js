@@ -1,18 +1,18 @@
 module.exports = {
-    groupId: 0,
-    maximumRank: 0,
-    prefix: 'q!',
-    logChannelId: '',
-    shoutChannelId: '',
-    auditLogChannelId: '',
+    groupId: 13168545,
+    maximumRank: 16,
+    prefix: '-',
+    logChannelId: '938595871577243668',
+    shoutChannelId: '938595871577243668',
+    auditLogChannelId: '938595871577243668',
     legacyCommands: true,
     colors: {
         info: '#5b57d9',
         error: '#de554e',
         neutral: '#f2f255',
-        success: '#43d177'
+        success: '#ff3434'
     },
-    verificationChecks: false,
+    verificationChecks: true,
     firedRank: 1,
     xpRankup: {
         enabled: false,
